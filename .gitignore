@@ -38,3 +38,4 @@ config/credentials.yml
 
 # Personal and config files
 Iniciador_proyecto.py
+*.pdf
